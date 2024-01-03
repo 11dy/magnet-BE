@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/magnet/static/css/main.24443c39.css",
-    "main.js": "/magnet/static/js/main.d816b7c3.js",
+    "main.css": "/magnet/static/css/main.4f7817e0.css",
+    "main.js": "/magnet/static/js/main.f0b4299b.js",
     "index.html": "/magnet/index.html",
-    "main.24443c39.css.map": "/magnet/static/css/main.24443c39.css.map",
-    "main.d816b7c3.js.map": "/magnet/static/js/main.d816b7c3.js.map"
+    "main.4f7817e0.css.map": "/magnet/static/css/main.4f7817e0.css.map",
+    "main.f0b4299b.js.map": "/magnet/static/js/main.f0b4299b.js.map"
   },
   "entrypoints": [
-    "static/css/main.24443c39.css",
-    "static/js/main.d816b7c3.js"
+    "static/css/main.4f7817e0.css",
+    "static/js/main.f0b4299b.js"
   ]
 }
