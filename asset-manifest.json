@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/magnet/static/css/main.dd46462b.css",
-    "main.js": "/magnet/static/js/main.6ca7fd36.js",
+    "main.css": "/magnet/static/css/main.c6ed7367.css",
+    "main.js": "/magnet/static/js/main.48189760.js",
     "static/media/remixicon.svg?t=1702724036775": "/magnet/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/remixicon.eot?t=1702724036775": "/magnet/static/media/remixicon.dd310df16a603c6a396d.eot",
     "static/media/remixicon.ttf?t=1702724036775": "/magnet/static/media/remixicon.424fce778c275364c18f.ttf",
     "static/media/remixicon.woff?t=1702724036775": "/magnet/static/media/remixicon.5d8cf5b2de0c4f79020c.woff",
     "static/media/remixicon.woff2?t=1702724036775": "/magnet/static/media/remixicon.d690f58194cb889b5487.woff2",
     "index.html": "/magnet/index.html",
-    "main.dd46462b.css.map": "/magnet/static/css/main.dd46462b.css.map",
-    "main.6ca7fd36.js.map": "/magnet/static/js/main.6ca7fd36.js.map"
+    "main.c6ed7367.css.map": "/magnet/static/css/main.c6ed7367.css.map",
+    "main.48189760.js.map": "/magnet/static/js/main.48189760.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd46462b.css",
-    "static/js/main.6ca7fd36.js"
+    "static/css/main.c6ed7367.css",
+    "static/js/main.48189760.js"
   ]
 }
