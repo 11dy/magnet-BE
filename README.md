@@ -19,8 +19,6 @@
 ## ERD
 ![erd 최신](https://github.com/11dy/magnet-BE/assets/96255906/cb78fc60-c21c-476b-af37-8b8e85b58d67)
 
-## 구현기능 
-https://wholesale-bottle-d43.notion.site/2d8e9f87188541a68b32bd9f4d3be3f3?v=5d9be53b2d0a4883a9d9ee1a98bb65ce&pvs=4
 
 
 
